@@ -1,0 +1,28 @@
+{
+    "data": {
+        "email": "local@gmail.com",
+        "username": "local user",
+        "displayName": "Sam Altman Local",
+        "avatar": "https://i.pravatar.cc/150?u=a042581f4e29026704d",
+        "name": "Sam Altman",
+        "age": "38",
+        "gender": "Non Binary",
+        "location": "Bay Area",
+        "interest1": "Computers",
+        "interest2": "Chat GPT"
+    },
+    "profile": {
+        "user_uuid":    "string",
+        "email":        "local@gmail.com",
+        "username":     "local user",
+        "display_name": "Sam Altman Local",
+        "location":     "Bay Area",
+        "biography":    "",
+        "avatar_uri":   "https://i.pravatar.cc/150?u=a042581f4e29026704d",
+        "banner_uri":   "",
+        "badge":        "",
+        "socials":      null,
+        "created_at":   ""
+    }
+    
+}
